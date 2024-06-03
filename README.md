@@ -34,7 +34,7 @@ Setup Instructions
 
 bash
 Copy code
-git clone https://github.com/yourusername/file-hider-java.git
+git clone https:(https://github.com/HinaChauhan158/File-Hider-Using-JAVA/tree/main)
 cd file-hider-java
 Setup MySQL Database
 
